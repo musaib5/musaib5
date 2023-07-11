@@ -79,9 +79,9 @@
 <br/>
 
 ## Popular Projects
-<a href="https://github.com/musaib5/Spotify_ETL_Pipeline">
+<a href="https://github.com/musaib5/spotify_ETL_pipeline">
   <!-- Change the `github-readme-stats.musaib5.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musaib5&repo=Spotify_ETL_Pipeline&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musaib5&repo=spotify_ETL_pipeline&theme=onedark" />
 </a>
 
 <a href="https://github.com/musaib5/YT_Video_Downloader">
